@@ -1,1 +1,2 @@
 Hello this is the first file;
+Now i have learning branch and merge on git
